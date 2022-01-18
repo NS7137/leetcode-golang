@@ -1,4 +1,6 @@
-# 1.1 数组/链表
+# [labuladong algo](https://labuladong.gitee.io/algo/)
+
+## 1.1 数组/链表
 
 - 前缀和数组
 
@@ -52,7 +54,7 @@
   - [206 反转链表](https://github.com/NS7137/leetcode-golang/blob/master/206reverseLinkedList/reverseList.go)
   - [92 反转链表 II](https://github.com/NS7137/leetcode-golang/blob/master/92reverseLinkedList2/reverseBetween.go)
 
-# 1.3 队列/栈
+## 1.3 队列/栈
 
 - 队列实现栈以及栈实现队列
   - [232 用栈实现队列](https://github.com/NS7137/leetcode-golang/blob/master/232implementQueueUsingStacks/queueByStacks.go)
@@ -71,7 +73,7 @@
   - [316 去除重复字母](https://github.com/NS7137/leetcode-golang/blob/master/316removeDuplicateLetters/removeDuplicateLetters.go)
   - [1081 不同字符的最小子序列](https://github.com/NS7137/leetcode-golang/blob/master/1081smallestSubsequenceOfDistinctCharacters/smallestSubsequence.go)
 
-# 1.4 数据结构设计
+## 1.4 数据结构设计
 
 - LRU 算法
   - [146 LRU 缓存机制](https://github.com/NS7137/leetcode-golang/blob/master/146lruCache/LRUCache.go)
