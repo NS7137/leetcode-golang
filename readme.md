@@ -70,3 +70,15 @@
 - 数组去重
   - [316 去除重复字母](https://github.com/NS7137/leetcode-golang/blob/master/316removeDuplicateLetters/removeDuplicateLetters.go)
   - [1081 不同字符的最小子序列](https://github.com/NS7137/leetcode-golang/blob/master/1081smallestSubsequenceOfDistinctCharacters/smallestSubsequence.go)
+
+# 1.4 数据结构设计
+
+- LRU 算法
+  - [146 LRU 缓存机制](https://github.com/NS7137/leetcode-golang/blob/master/146lruCache/LRUCache.go)
+- LFU 算法
+  - [460 LFU 缓存机制](https://github.com/NS7137/leetcode-golang/blob/master/460lfuCache/LFUCache.go)
+- 常数时间，删除/查找数组中的任意元素
+  - [380 常数时间插入、删除和获取随机元素](https://github.com/NS7137/leetcode-golang/blob/master/380insertDeleteGetRandomO1/randomizedSet.go)
+  - [710 黑名单中的随机数](https://github.com/NS7137/leetcode-golang/blob/master/710randomPickWithBlacklist/randomPickWithBlacklist.go)
+- 中位数算法题
+  - [295 数据流的中位数](https://github.com/NS7137/leetcode-golang/blob/master/295findMedianFromDataStream/medianFinder.go)

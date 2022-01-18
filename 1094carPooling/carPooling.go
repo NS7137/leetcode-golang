@@ -1,6 +1,6 @@
 package carpooling
 
-import "leetcode/utils"
+import "leetcode-golang/utils"
 
 func CarPooling(trips [][]int, capacity int) bool {
 	nums := make([]int, 1001)
