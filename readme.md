@@ -84,3 +84,24 @@
   - [710 黑名单中的随机数](https://github.com/NS7137/leetcode-golang/blob/master/710randomPickWithBlacklist/randomPickWithBlacklist.go)
 - 中位数算法题
   - [295 数据流的中位数](https://github.com/NS7137/leetcode-golang/blob/master/295findMedianFromDataStream/medianFinder.go)
+
+## 2.1 二叉树
+
+- 二叉树 1
+  - [226 翻转二叉树](https://github.com/NS7137/leetcode-golang/blob/master/226invertBinaryTree/invertTree.go)
+  - [114 二叉树展开为链表](https://github.com/NS7137/leetcode-golang/blob/master/114flattenBinaryTreeToLinkedList/flatten.go)
+  - [116 填充每个节点的下一个右侧节点指针](https://github.com/NS7137/leetcode-golang/blob/master/116populatingNextRightPointersInEachNode/connect.go)
+- 二叉树 2
+  - [654 最大二叉树](https://github.com/NS7137/leetcode-golang/blob/master/654maximumBinaryTree/constructMaximumBinaryTree.go)
+  - [105 从前序与中序遍历序列构造二叉树](https://github.com/NS7137/leetcode-golang/blob/master/105constructBinaryTreeFromPreorderAndInorderTraversal/buildTree.go)
+  - [106 从中序与后序遍历序列构造二叉树](https://github.com/NS7137/leetcode-golang/blob/master/106constructBinarayTreeFromInorderAndPostorderTraversal/buildTree.go)
+- 二叉树 3
+  - [652 寻找重复的子树](https://github.com/NS7137/leetcode-golang/blob/master/652findDuplicateSubtrees/findDuplicateSubtrees.go)
+- 二叉树的树序列化
+  - [297 二叉树的序列化和反序列化](https://github.com/NS7137/leetcode-golang/blob/master/297serializeAndDeserializeBinaryTree/codec.go)
+- 后序遍历
+  - [1373 二叉搜索子树的最大键值和](https://github.com/NS7137/leetcode-golang/blob/master/1373maximumSumBSTInBinaryTree/maxSumBST.go)
+- 二叉树 4
+  - [104 二叉树的最大深度](https://github.com/NS7137/leetcode-golang/blob/master/104maximunDepthOfBinaryTree/maxDepth.go)
+  - [543 二叉树的直径](https://github.com/NS7137/leetcode-golang/blob/master/543diameterOfBinaryTree/diameterOfBinaryTree.go)
+  - [144 二叉树的前序遍历](https://github.com/NS7137/leetcode-golang/blob/master/144binaryTreePreorderTraversl/preorderTraversal.go)
