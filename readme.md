@@ -1,6 +1,8 @@
 # [labuladong algo](https://labuladong.gitee.io/algo/)
 
-## 1.1 数组/链表
+## 基础数据结构
+
+### 1.1 数组/链表
 
 - 前缀和数组
 
@@ -54,7 +56,7 @@
   - [206 反转链表](https://github.com/NS7137/leetcode-golang/blob/master/206reverseLinkedList/reverseList.go)
   - [92 反转链表 II](https://github.com/NS7137/leetcode-golang/blob/master/92reverseLinkedList2/reverseBetween.go)
 
-## 1.3 队列/栈
+### 1.3 队列/栈
 
 - 队列实现栈以及栈实现队列
 
@@ -82,7 +84,7 @@
   - [316 去除重复字母](https://github.com/NS7137/leetcode-golang/blob/master/316removeDuplicateLetters/removeDuplicateLetters.go)
   - [1081 不同字符的最小子序列](https://github.com/NS7137/leetcode-golang/blob/master/1081smallestSubsequenceOfDistinctCharacters/smallestSubsequence.go)
 
-## 1.4 数据结构设计
+### 1.4 数据结构设计
 
 - LRU 算法
 
@@ -101,7 +103,9 @@
 
   - [295 数据流的中位数](https://github.com/NS7137/leetcode-golang/blob/master/295findMedianFromDataStream/medianFinder.go)
 
-## 2.1 二叉树
+## 进阶数据结构
+
+### 2.1 二叉树
 
 - 二叉树 1
 
@@ -151,3 +155,33 @@
 
   - [96 不同的二叉搜索树](https://github.com/NS7137/leetcode-golang/blob/master/96uniqueBSTs/numTrees.go)
   - [95 不同的二叉搜索树 II](https://github.com/NS7137/leetcode-golang/blob/master/95uniqueBSTs2/generateTrees.go)
+
+## 2.3 图论
+
+- 图论基础
+  - [797 所有可能的路径](https://github.com/NS7137/leetcode-golang/blob/master/797allPathsFromSourceToTarget/allPathsSourceTarget.go)
+- 拓扑排序
+  - [207 课程表](https://github.com/NS7137/leetcode-golang/blob/master/207courseSchedule/canFinish.go)
+  - [210 课程表 II](https://github.com/NS7137/leetcode-golang/blob/master/210courseScheduleII/findOrder.go)
+- 二分图判定
+  - [785 判断二分图](https://github.com/NS7137/leetcode-golang/blob/master/785isGraphBipartite/isBipartite.go)
+  - [886 可能的二分法](https://github.com/NS7137/leetcode-golang/blob/master/886possibleBipartition/possibleBipartition.go)
+- Union-Find 算法
+  - [323 无向图中的连通分量数目](https://github.com/NS7137/leetcode-golang/blob/master/323numberOfConnectedComponentsInAnUndirectedGraph/unionFind.go)
+- Union-Find 应用
+  - [130 被围绕的区域](https://github.com/NS7137/leetcode-golang/blob/master/130surroundedRegions/solve.go)
+  - [990 等式方程的可满足性](https://github.com/NS7137/leetcode-golang/blob/master/990satisfiabilityOfEqualityEquations/equationsPossible.go)
+- Kruskal 最小生成树
+  - [261 以图判树](https://github.com/NS7137/leetcode-golang/blob/master/261graphValidTree/validTree.go)
+  - [1135 最低成本联通所有城市](https://github.com/NS7137/leetcode-golang/blob/master/1135connectingCitiesWithMinimumCost/minimunCost.go)
+  - [1584 连接所有点的最小费用](https://github.com/NS7137/leetcode-golang/blob/master/1584minCostToConnectAllPoints/minCostConnectPoints.go)
+- Prim 最小生成树
+  - [prim 实现](https://github.com/NS7137/leetcode-golang/blob/master/utils\prim.go)
+  - [1135 最低成本联通所有城市](https://github.com/NS7137/leetcode-golang/blob/master/1135connectingCitiesWithMinimumCost/minCostByPrim.go)
+  - [1584 连接所有点的最小费用](https://github.com/NS7137/leetcode-golang/blob/master/1584minCostToConnectAllPoints/minCostConnectPointsByPrim.go)
+- Dijkstra 最短路径
+  - [743 网络延迟时间](https://github.com/NS7137/leetcode-golang/blob/master/743networkDelayTime/networkDelayTime.go)
+  - [1514 概率最大的路径](https://github.com/NS7137/leetcode-golang/blob/master/1514pathWithMaximumProbability/maxProbability.go)
+  - [1631 最小体力消耗路径](https://github.com/NS7137/leetcode-golang/blob/master/1631pathWithMinimumEffort/minimumEffortPath.go)
+- 名流问题
+  - [277 搜索名人](https://github.com/NS7137/leetcode-golang/blob/master/277findTheCelebrity/findCelebrity.go)
